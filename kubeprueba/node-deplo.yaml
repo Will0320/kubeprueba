@@ -18,5 +18,5 @@ spec:
       - name: nodeapp
         image: willmar03/node-mongo:v2
         ports:
-        - name: node-port
+        - name: nodeapp-port
           containerPort: 3000
